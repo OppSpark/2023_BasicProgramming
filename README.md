@@ -21,31 +21,40 @@
 - tealight03/pgmBasic
 - tealight03/Weekly_Music
 - https://www.weeklymusic.store/
+
 ### 김민영
 - min-young417/23ProgrammingBasic
 - http://www.ymin.store/
+
 ### 이지홍
 - Luinesse/Programming_Basic
 - https://luinesse.store/
+
 ### 김정원
 - kimguppy/Programming
 - https://www.kimguppyingarden.store/
+
 ### 전상훈
 - JeonSangHoon0711/2023-summer-csbase
 - JeonSangHoon0711/2023summer_server
 - https://github.com/JeonSangHoon0711/testestest/tree/main
 - http://jshsky.com/
+
 ### 최은수
 - cvoi8611/pg_study1
 - https://blog.covi8611.shop/
+
 ### 박준규
 - OppSpark/basicS
 - OppSpark/23_1_WEB_PJ
+- https://github.com/OppSpark/2023_basic_study
 - http://hometex.or1.shop/
+
 ### 고태희
 - GoTaeH/study1
 - GoTaeH/studyProject
 - https://gogoth7.site/
+
 ### 정혜인
 - hy31n/study
 - https://hyein.site/
