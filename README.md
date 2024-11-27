@@ -37,7 +37,6 @@
 ### 전상훈
 - JeonSangHoon0711/2023-summer-csbase
 - JeonSangHoon0711/2023summer_server
-- https://github.com/JeonSangHoon0711/testestest/tree/main
 - http://jshsky.com/
 
 ### 최은수
@@ -46,8 +45,6 @@
 
 ### 박준규
 - OppSpark/basicS
-- OppSpark/23_1_WEB_PJ
-- https://github.com/OppSpark/2023_basic_study
 - http://hometex.or1.shop/
 
 ### 고태희
